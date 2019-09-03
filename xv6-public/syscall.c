@@ -144,7 +144,7 @@ char*names[]={
     "chdir",
     "dup",
     "getpid",
-    "sbrk",
+    "sbk",
     "sleep",
     "uptime",
     "open",
